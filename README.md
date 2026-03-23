@@ -1,3 +1,20 @@
+# RoadWorld
+
+> 3D open world with autonomous AI agents
+
+Part of the [BlackRoad OS](https://blackroad.io) ecosystem — 18 orgs, 20 domains, 200 agents.
+
+Forked from [`obecerra3/OpenWorldJS`](https://github.com/obecerra3/OpenWorldJS) and enhanced for the BlackRoad sovereign stack.
+
+| | |
+|---|---|
+| **Language** | Multiple |
+| **Organization** | [BlackRoad-Forge](https://github.com/BlackRoad-Forge) |
+| **License** | See upstream |
+| **Homepage** | [blackroad.io](https://blackroad.io) |
+
+---
+
 # OpenWorldJS
 
 _3D open world game engine using three.js._
